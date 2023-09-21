@@ -1,15 +1,13 @@
 ![github_cover_banner](https://github.com/BongOwethu/Data-Structures-and-Algorithms-in-Python/blob/main/neetcode%20banner%202.png)
-![github_cover_banner]()
 # Data-Structures-and-Algorithms-in-Python 📚
 
-> 🖤My NeetCode 150 Practice Problems for Acing coding interviews
+> 🖤 My NeetCode 150 Practice Problems for Acing coding interviews 📖
 
 ---
-*My NeetCode 150 Practice Problems. <br /><br />
-Neetcode 150 is a curated list of 150 LeetCode problems designed to cover all possible patterns & topics in data structures. <br />
-Mainly practicing in ``` C ``` , ``` C++ ``` , ``` Rust ``` , ``` Python ``` , ``` JAVA ``` & ``` JavaScript ```.<br /> 
-The list was created by Neetcode-gh - https://github.com/neetcode-gh, originally based on another list called blind 75 with 75 problems.<br />
-List @ https://neetcode.io/ <br />*
+*⚜️ Neetcode 150 is a curated list of 150 LeetCode problems designed to cover all possible patterns & topics in data structures and algorithms. <br />
+⚜️ Mainly practicing in ``` C ``` , ``` C++ ``` , ``` Rust ``` , ``` Python ``` , ``` JAVA ``` & ``` JavaScript ```.<br /> 
+⚜️ The list was created by Neetcode-gh - https://github.com/neetcode-gh, originally based on another list called blind 75 with 75 problems.<br />
+⚜️ List @ https://neetcode.io/ <br />*
 
 ---
 
