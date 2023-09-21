@@ -1,4 +1,4 @@
-![github_cover_banner]()
+![github_cover_banner](https://github.com/BongOwethu/Data-Structures-and-Algorithms-in-Python/blob/main/neetcode%20banner%202.png)
 ![github_cover_banner]()
 # Data-Structures-and-Algorithms-in-Python 📚
 
